@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import hello from '../images/carahello.png'
+
 import sanrio from '../images/sanrio.png'
 export default function Footer() {
   const [time, setTime] = useState(new Date());
@@ -11,7 +11,7 @@ export default function Footer() {
        <div className='footer'>
     <div className='subfooter'>
    
-    <img className='vasija' src={hello} alt='hello' />
+    <img className='vasija' src='https://freepngtransparent.com/wp-content/uploads/2023/03/Hello-Kitty-Png-225.png' alt='hello' />
     
    
       <div className='redesContainer'>

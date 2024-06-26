@@ -1,5 +1,4 @@
 import React from 'react'
-import logo from '../images/hellokittycorazon.png'
 import { Link } from 'react-scroll'
 
 export default function TopBar() {
@@ -57,7 +56,7 @@ export default function TopBar() {
 
       
     
-        <img className='logoside' src={logo} alt='logo'></img>
+        <img className='logoside' src='https://freepngtransparent.com/wp-content/uploads/2023/03/Hello-Kitty-Png-201.png' alt='logo'></img>
     
 
     </div>
