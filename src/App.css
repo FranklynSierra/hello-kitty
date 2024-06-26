@@ -254,11 +254,11 @@ text-align: center;
 .unityContainer{
     width: 100%;
     height:450px;
-    background-image:url('./images/hellokittyfondo.jpeg') ;
+    background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6pfBXlp9Vvyd64-tjvY8bEKnmC_3a7KIsLQ&s') ;
     background-position: center ;
   
     background-attachment: fixed;
-    background-repeat: no-repeat;
+
     text-align: center;
     display: flex;
    justify-content: center;
@@ -398,6 +398,7 @@ text-align: center;
   }
   .logocherry{
     width:300px;
+    border-radius:50px;
     
   }
 

@@ -8,6 +8,7 @@ export default function OificalPage() {
       <p className='unityText'>Click here to visit de oficial Page of Sanrio</p>
       <button className='buttonUnity'> <a href="https://www.sanrio.com/">Visit Here</a></button>
       </div>
+     
     </div>
   )
 
