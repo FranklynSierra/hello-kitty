@@ -1,18 +1,15 @@
 {
   "files": {
-    "main.css": "/hello-kitty-page/static/css/main.5618376f.css",
-    "main.js": "/hello-kitty-page/static/js/main.a29691f8.js",
+    "main.css": "/hello-kitty-page/static/css/main.a68e45e6.css",
+    "main.js": "/hello-kitty-page/static/js/main.2f384e01.js",
     "static/js/453.79b37fdd.chunk.js": "/hello-kitty-page/static/js/453.79b37fdd.chunk.js",
-    "static/media/hellokittyfondo.jpeg": "/hello-kitty-page/static/media/hellokittyfondo.30312c1d6ca9c9443500.jpeg",
-    "static/media/sanrio.png": "/hello-kitty-page/static/media/sanrio.93415bee807aac8e5285.png",
-    "static/media/Hello-Kitty-Png-237.png": "/hello-kitty-page/static/media/Hello-Kitty-Png-237.9c0cc1455ced3278a206.png",
     "index.html": "/hello-kitty-page/index.html",
-    "main.5618376f.css.map": "/hello-kitty-page/static/css/main.5618376f.css.map",
-    "main.a29691f8.js.map": "/hello-kitty-page/static/js/main.a29691f8.js.map",
+    "main.a68e45e6.css.map": "/hello-kitty-page/static/css/main.a68e45e6.css.map",
+    "main.2f384e01.js.map": "/hello-kitty-page/static/js/main.2f384e01.js.map",
     "453.79b37fdd.chunk.js.map": "/hello-kitty-page/static/js/453.79b37fdd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5618376f.css",
-    "static/js/main.a29691f8.js"
+    "static/css/main.a68e45e6.css",
+    "static/js/main.2f384e01.js"
   ]
 }
